@@ -1,0 +1,10 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Monuments of Partimenti"
+theme = "hugo-theme-learn"
+
+[params]
+  author = "Robert O. Gjerdingen"
+
+[outputs]
+  home = [ "HTML", "JSON", "RSS"]
