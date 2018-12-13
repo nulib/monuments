@@ -1,6 +1,6 @@
 +++
 title = "Nicola Fago: Stabat Mater, Naples, 1719"
-weight = 2410
+weight = 1410
 menuTitle = "Stabat Mater"
 +++
 - Full Score

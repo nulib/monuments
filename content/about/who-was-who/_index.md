@@ -1,6 +1,6 @@
 +++
 title = "Who was Who"
-weight = 2500
+weight = 1500
 +++
 Please Select a Chart of Teachers or a Short History of their School:
 

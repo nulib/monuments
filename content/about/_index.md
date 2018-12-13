@@ -1,6 +1,6 @@
 +++
 title = "About"
-weight = 2000
+weight = 1000
 +++
 
 ![Main Title](/img/about/mainTitle.jpg)
