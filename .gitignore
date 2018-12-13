@@ -1,10 +1,11 @@
 # Hugo default output directory
 /public
+/static/img
 
 ## OS Files
+
 # Windows
 Thumbs.db
 ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
-themes/hugo-theme-learn/
