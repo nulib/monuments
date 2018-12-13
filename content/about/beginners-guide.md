@@ -1,6 +1,6 @@
 +++
 title = "A Beginner's Guide"
-weight = 2002
+weight = 2200
 +++
 Eighteenth-century students learned partimenti at the keyboard, and today that is still the best method. You do not need to be an accomplished keyboard player. It is enough to be able to play, slowly and at your own tempo, a one-note bass in the left hand and one, two, or three notes in the right hand. You will be training your ears more than your fingers.
 

@@ -1,6 +1,6 @@
 +++
 title = "Partimenti in Their Historical Context"
-weight = 2001
+weight = 2100
 menuTitle = "Historical Overview"
 +++
 Partimenti, or instructional basses, were central to the training of European court musicians from the late 1600s until the early 1800s. They had their greatest influence first in Italian conservatories, especially at Naples, and then later at the Paris Conservatory, where the principles of the "Italian school" continued to be taught far into the twentieth century. Because learning the Italian style of music was a priority for almost any eighteenth-century musician, many well-known non-Italian composers, including Bach, Handel, Haydn, and Mozart, also studied or taught partimenti.
