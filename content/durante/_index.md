@@ -1,6 +1,6 @@
 +++
-title = "Francesco Durante"
-weight = 1000
+title = "Francesco Durante (1684–1755)"
+weight = 2000
 +++
 
 Please Select a Subset of the Partimenti:
