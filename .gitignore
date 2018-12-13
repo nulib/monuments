@@ -1,6 +1,7 @@
 # Hugo default output directory
 /public
 /static/img
+/themes/hugo-theme-learn/exampleSite
 
 ## OS Files
 
