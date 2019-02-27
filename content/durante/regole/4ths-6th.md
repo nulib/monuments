@@ -3,6 +3,8 @@ title = "4ths Prepared by 6ths"
 weight = 1102
 +++
 
-<img src="/img/4ths-8vas.jpg" />
+## Seconda formazione della 4a la quale nasce dalla 5a.
 
-<img src="/img/DurReg-2.jpg" />
+Second preparation of the 4th, which stems from the 5th.
+
+![4ths Prepared by 5ths](/img/durante/02DurReg.jpg)

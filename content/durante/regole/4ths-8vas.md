@@ -3,6 +3,8 @@ title = "4ths Prepared by 8vas"
 weight = 1101
 +++
 
-<img src="/img/4ths-8vas.jpg" />
+## Prima formazione della 4a la quale nasce dall' 8a.
 
-<img src="/img/DurReg-1.jpg" />
+First preparation of the 4th, which stems from the 8va.
+
+![4ths Prepared by 8vas](/img/durante/01DurReg.jpg)
