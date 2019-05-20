@@ -1,6 +1,7 @@
 +++
 title = "Piccolo Basso"
 weight = 12300
++++
 
 In tutti li toni
 Per Introduzione alli Bassi numerati
@@ -14,6 +15,3 @@ By Father and Maestro Stanislao Mattei, [A Franscisan] Conventual Minorite.”
 
 Please Select a Key
 There are four short partimenti or “cadenze” in each key.
-
-
-+++
