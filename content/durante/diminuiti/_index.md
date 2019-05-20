@@ -2,6 +2,7 @@
 title = "Partimenti diminuiti (Embellished Basses)"
 weight = 2300
 menuTitle = "Partimenti diminuiti"
+
 +++
 Numbered according to MS 34.2.4 at the Naples Conservatory Library
 

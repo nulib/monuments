@@ -3,6 +3,15 @@ title = "Giovanni Furno (1748–1837): Title Page"
 weight = 10001
 +++
 
+An Easy, Brief, and Clear
+Engilsh Translation:
+METHOD
+Concerning the Primary and Essential Rules for Accompanying
+Unfigured Partimenti
+by MaestroGIOVANNI FURNO
+For the Use of Students at the Royal Conservatory of Music
+Naples, near Orlando Vico, S. M. delle Grazie No. 25.
+
 <body>
 <p align="center"><img src="../PrevIndexNextTop.jpg" border="0" usemap="#Map"></p>
 <map name="Map">
@@ -53,6 +62,4 @@ weight = 10001
   <area shape="rect" coords="435,25,530,47" href="index.htm">
   <area shape="rect" coords="831,25,921,47" href="regoleP1.htm">
 </map>
-
-
 </body>
